@@ -1,7 +1,7 @@
 ---
 name: Job Openning
 about: Create new openning job
-title: Job Openning
+title: [Company Name] - [Job Title] - [Location] - [Job Type]
 labels: ''
 assignees: ''
 
