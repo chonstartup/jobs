@@ -20,6 +20,12 @@ Provide a concise introduction to your startup, covering:
 - Your mission and vision  
 - The product or problem you are solving  
 
+## Responsibilities:
+Clearly describe:
+- Day-to-day responsibilities  
+- Areas of ownership  
+- Scope of work and team collaboration  
+
 ## Requirements:
 List the essential qualifications for this role, including:
 - Required technical skills  
@@ -34,12 +40,6 @@ List the essential qualifications for this role, including:
 
 ### Nice to Have
 - Additional skills or experience that would be beneficial  
-
-## Responsibilities:
-Clearly describe:
-- Day-to-day responsibilities  
-- Areas of ownership  
-- Scope of work and team collaboration  
 
 ## Why You’ll Love Working Here:
 Highlight what makes your company a great place to work:
